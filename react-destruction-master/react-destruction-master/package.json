@@ -1,0 +1,18 @@
+{
+  "name": "react-destruction",
+  "version": "1.0.0",
+  "description": "Brincando com engeharia reversa com React.",
+  "main": "react-zero-00.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  },
+  "devDependencies": {
+    "minimist": ">=1.2.2"
+  }
+}
